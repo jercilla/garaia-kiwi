@@ -25,3 +25,9 @@ El json debe tener id, las linas deben tener nombre. Ejemplo:
 Lineas = {
     {"id" : "cestas", "name" : "Linea Cestas"}
 }
+
+## Generate executable
+
+https://pyinstaller.org/en/stable/
+
+https://datatofish.com/executable-pyinstaller/

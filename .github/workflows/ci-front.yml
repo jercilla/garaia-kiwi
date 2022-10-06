@@ -36,5 +36,5 @@ jobs:
     - name: Archive build artifacts
       uses: actions/upload-artifact@v3
       with:
-        name: dist directoy
+        name: front-dist
         path: front/dist/**/*
